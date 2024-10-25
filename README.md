@@ -1,7 +1,7 @@
-h1 align="center">Hi 👋, I'm Anna!</h1>
-<h3 align="center">A passionate Cloud Lover</h3>
+h1 align="center">Oi, eu sou a Anna! </h1>
+<h3 align="center">Estudo Sistemas de Informação, sou fascinada na cultura DevOps e atualmente trabalho como Product Owner.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fico feliz que você está aqui!</h3>
 <p align="left">
 </p>
 
