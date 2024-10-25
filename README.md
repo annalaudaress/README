@@ -1,4 +1,4 @@
-h1 align="center">Oi, eu sou a Anna! </h1>
+Oi, eu sou a Anna! </h1>
 <h3 align="center">Estudo Sistemas de Informação, sou fascinada na cultura DevOps e atualmente trabalho como Product Owner.</h3>
 
 <h3 align="left">Fico feliz que você está aqui!</h3>
