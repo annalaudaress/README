@@ -1,5 +1,5 @@
 <h1 align="center">Prazer, eu sou a Anna!</h1>
-<h2 align="center">Estudante de SI, extensionista na PUC e na UFMG e busco solucionar problemas na Engineering- :it: </h3>
+<h2 align="center">Estudante de SI, extensionista na PUC e na UFMG e busco solucionar problemas na Engineering- :it:. </h3>
 
 </p>
 
